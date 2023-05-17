@@ -14,17 +14,14 @@
         "ip": "8.8.8.8"
       }
     },
-
-	"tom": {
-     "roles": ["employee"],
-     "tom": {
-      "roles": ["admin"],
+    "tom": {
+      "roles": ["employee"],
       "location": {
         "country": "TW",
         "ip": "10.5.5.192"
       }
     },
-     "sunil": {
+    "sunil": {
       "roles": ["guest"],
       "location": {
         "country": "US",
