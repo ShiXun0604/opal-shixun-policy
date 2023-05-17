@@ -14,13 +14,11 @@
         "ip": "8.8.8.8"
       }
     },
-<<<<<<< HEAD
+
 	"tom": {
-      "roles": ["employee"],
-=======
+     "roles": ["employee"],
      "tom": {
       "roles": ["admin"],
->>>>>>> 5182a9a75f4325a673c65ff1d51c9100e2c4f868
       "location": {
         "country": "TW",
         "ip": "10.5.5.192"
