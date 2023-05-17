@@ -15,7 +15,7 @@
       }
     },
     "tom": {
-      "roles": ["employee"],
+      "roles": ["admin"],
       "location": {
         "country": "TW",
         "ip": "10.5.5.192"
